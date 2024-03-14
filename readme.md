@@ -1,1 +1,2 @@
-password: 'docker run --name my-postgres-container -e POSTGRES_PASSWORD=mysecretpassword -p 5432:5432 -d postgres'
+This api uses postgres container as a database.
+if you want to use this API kindly add the env file and add a postgres database.
